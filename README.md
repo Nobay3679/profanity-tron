@@ -4,8 +4,9 @@
 
 <img width="100%" src="https://github.com/GG4mida/profanity-tron/blob/main/screenshot/demo.png?raw=true"/>
 
-> 该程序仅用于学习交流，请勿用于非法用途。
-> 本程序仅在该仓库发布，请勿下载运行其它来路不明的版本，由此造成的一切损失，请自行承担。
+> Fbi Warning 1: 该程序仅用于学习交流，请勿用于非法用途。
+
+> Fbi Warning 2: 本程序仅在该仓库发布，请勿下载运行其它来路不明的版本，由此造成的一切损失，请自行承担。
 
 ## 说明
 
