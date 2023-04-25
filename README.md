@@ -16,7 +16,7 @@
 ## 运行
 
 ```plaintext
-Usage: ./profanity [OPTIONS]
+Usage: profanity.exe [OPTIONS]
 
   Help:
     --help              Show help information
